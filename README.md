@@ -1,2 +1,3 @@
-# Atividade3_EstruturaAPI
- Estrutura da API com Context e método GET para projetos com teste no navegador
+# Atividades_EstruturaAPI
+ Atividades de Desenvolvimento de API
+ - Obs. As atividades estão separadas por "Release".
